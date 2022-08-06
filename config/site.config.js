@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Telegram'',
+      name: 'Telegram',
       link: 'https://t.me/TMIndex',
     },
     {
@@ -60,7 +60,7 @@ module.exports = {
       link: 'https://movies.tmindex.eu.org',
     },
     {
-      name: 'TV Series (A-M),
+      name: 'TV Series (A-M)',
       link: 'https://tv1.tmindex.eu.org',
     },
     {
