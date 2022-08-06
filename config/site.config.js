@@ -52,12 +52,20 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Telegram'',
+      link: 'https://t.me/TMIndex',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/TMDrive',
+      name: 'Anime & Movies',
+      link: 'https://movies.tmindex.eu.org',
+    },
+    {
+      name: 'TV Series (A-M),
+      link: 'https://tv1.tmindex.eu.org',
+    },
+    {
+      name: 'TV Series (N-Z)',
+      link: 'https://tv2.tmindex.eu.org',
     },
   ],
 
